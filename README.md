@@ -1,4 +1,4 @@
- SUDOKU-SOLVER
+# SUDOKU-SOLVER
 
 Random Sudoku puzzle:
 1 2 0 | 4 5 0 | 0 0 9 
